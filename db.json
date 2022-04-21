@@ -1,0 +1,232 @@
+{
+				{
+					"id": "26e95ab3-b279-4045-a814-c6c7e7c599c7",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk5",
+					"thumbnail": {
+						"path": "contact/article2.jpg"
+					},
+					"description": "<p>Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-21T10:00:02.023Z",
+					"page": {
+						"alias": "walczyk5",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"walczyk"
+					],
+					"data": {
+						"startDate": "2022-04-23T11:59:00",
+						"endDate": "2022-04-23T13:59:00"
+					}
+				},
+				{
+					"id": "3b76acf1-7c3f-412d-a4b8-1b6364812887",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk-week",
+					"thumbnail": {
+						"path": "danceSection/benefits/karnety%20mockup.jpg"
+					},
+					"description": "<p>Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-20T12:06:53.306Z",
+					"page": {
+						"alias": "walczyk-week",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"tango",
+						"walczyk"
+					],
+					"data": {
+						"startDate": "2022-04-23T14:06:00",
+						"endDate": "2022-04-23T18:06:00"
+					}
+				},
+				{
+					"id": "6c634a24-7096-4ab5-8917-7b7ded2ee06b",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk1",
+					"thumbnail": {
+						"path": "blog/dlaczego-nie-tanczyc/lubisz-lezec-na-kanapie.png"
+					},
+					"description": "<p>Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-21T09:45:05.593Z",
+					"page": {
+						"alias": "walczyk1",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"tango"
+					],
+					"data": {
+						"startDate": "2022-04-23T11:44:00",
+						"endDate": "2022-04-24T11:44:00"
+					}
+				},
+				{
+					"id": "ba1b99ae-9407-4bab-b3bf-f339779023e7",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk3",
+					"thumbnail": {
+						"path": "contact/article2.jpg"
+					},
+					"description": "<p>Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-21T09:46:05.159Z",
+					"page": {
+						"alias": "walczyk3",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"walczyk"
+					],
+					"data": {
+						"startDate": "2022-04-26T11:45:00",
+						"endDate": "2022-04-26T11:45:00"
+					}
+				},
+				{
+					"id": "d076db6d-87b3-4438-b475-e6e869d63d53",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk4",
+					"thumbnail": {
+						"path": "blog/dlaczego-warto-trenowac/dlaczego-warto-trenowac.jpg"
+					},
+					"description": "<p>Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-21T09:59:17.497Z",
+					"page": {
+						"alias": "walczyk4",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"walczyk"
+					],
+					"data": {
+						"startDate": "2022-04-20T11:58:00",
+						"endDate": "2022-04-20T11:59:00"
+					}
+				},
+				{
+					"id": "e1444288-64e8-4832-b86b-659ecac5b5e9",
+					"name": "Lorem ipsum dolor sit amet",
+					"alias": "walczyk2",
+					"thumbnail": {
+						"path": "blog/dlaczego-warto-trenowac/dlaczego-warto-trenowac.jpg"
+					},
+					"description": "<p>Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet</p>",
+					"createdAt": "2022-04-21T09:45:43.286Z",
+					"page": {
+						"alias": "walczyk2",
+						"status": "active"
+					},
+					"meta": {
+						"title": {
+							"pl": {}
+						},
+						"description": {
+							"pl": {}
+						},
+						"robots": {
+							"pl": []
+						},
+						"canonical": {
+							"pl": []
+						},
+						"hideInSitemap": true,
+						"priority": "1",
+						"frequency": "default"
+					},
+					"tags": [
+						"walczyk"
+					],
+					"data": {
+						"startDate": "2022-04-24T11:45:00",
+						"endDate": "2022-04-24T11:45:00"
+					}
+				}
+			]
+     }
